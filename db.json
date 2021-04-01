@@ -1,0 +1,44 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "sitename": "Site1"
+    },
+    {
+      "id": 2,
+      "sitename": "Site2"
+    },
+    {
+      "id": 3,
+      "sitename": "Site3"
+    },
+    {
+      "id": 4,
+      "sitename": "Site4"
+    },
+    {
+      "id": 5,
+      "sitename": "Site5"
+    },
+    {
+      "id": 6,
+      "sitename": "Site6"
+    },
+    {
+      "id": 7,
+      "sitename": "Site7"
+    },
+    {
+      "id": 8,
+      "sitename": "Site8"
+    },
+    {
+      "id": 9,
+      "sitename": "Site9"
+    },
+    {
+      "id": 10,
+      "sitename": "Site10"
+    },
+  ]
+}
